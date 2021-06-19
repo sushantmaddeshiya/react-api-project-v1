@@ -6,7 +6,7 @@ const Coin = ({
   price,
   symbol,
   marketcap,
-  volume,
+  volume,cxfgfdg
   image,
   priceChange
 }) => {
